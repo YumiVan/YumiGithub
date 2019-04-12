@@ -1,12 +1,5 @@
 
 name = 'yumi'
 age = 18
-123111111111111111111111
-11111111111133333333333
-333333333333333333
-44444444444444fgdddddddddd
-gdfgggggggggggggggggggggggggggggggggggggf
-ggggggggggggggggggggggggg
-gggggggggggggggggggggg
-gggggggggggggggggggggggg
-
+print('我真的是醉了，碰到这种删库跑路的程序员')
+print('已经修复好BUG')
